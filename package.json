@@ -1,0 +1,17 @@
+{
+  "name": "technical-lesson-external-APIs-and-fetching",
+  "version": "1.0.0",
+  "description": "A technical lesson on External APIs and Fetching",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Louis Medina",
+  "license": "Included in Repo",
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.23.0",
+    "jest": "^27.0.0",
+    "jsdom": "^22.1.0"
+  }
+}
